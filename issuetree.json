@@ -1,11 +1,39 @@
 {
- "name": "What strategy should Sandlands pursue to increase it’s profits?",
+ "name": "What strategy should Sandlands pursue to increase profits?",
  "children": [
   {
-   "name": "How can Sandlands increase its profits with the existing business model?"
+   "name": "How increase its profits with existing resources?",
+   "children": [
+      {
+       "name": "How to get additional revenues from existing customers?"
+      },
+      {
+       "name": "How attract new customers?"
+      }
+     ]
   },
   {
-   "name": "How can Sandlands increase its profits with new capital investment and establish his own winery?"
+   "name": "What new investment would increase profits?",
+   "children": [
+    {
+     "name": "How increase profits by buying the Eastside Meats?"
+    },
+    {
+     "name": "How increase profits by buying a vineyard?",
+     "children": [
+      {
+       "name": "Own grapes at lower cost"
+      },
+      {
+       "name": "Increased own capacity"
+      },
+      {
+       "name": "Expected quality and no supplier dependency"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
+
