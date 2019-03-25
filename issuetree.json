@@ -1,3 +1,11 @@
 {
- "name": "jose"
+ "name": "What strategy should Sandlands pursue to increase it’s profits?",
+ "children": [
+  {
+   "name": "How can Sandlands increase its profits with the existing business model?"
+  },
+  {
+   "name": "How can Sandlands increase its profits with new capital investment and establish his own winery?"
+  }
+ ]
 }
